@@ -26,4 +26,3 @@ The dataset includes features such as:
 ## 🚀 Results
 The best-performing model was **[Model Name]**, achieving an accuracy of **[XX%]** on the test set. Feature importance analysis showed that **[Feature1]**, **[Feature2]**, and **[Feature3]** were the top predictors.
 
-## 📁 Structure
